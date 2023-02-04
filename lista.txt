@@ -1,0 +1,34 @@
+gra Fifa21 X1 1 2
+gra Fifa20 X1 1 2
+gra Fifa19 X1 1 2
+gra Fifa18 X1 1 2
+gra Fifa17 X1 1 2
+gra Fifa13 PS3 1 2
+gra Fifa14 PS3 1 2
+gra Fifa12 PS3 1 2
+gra Fifa11 PS3 1 2
+gra Assasin's_Creed_Unity X1 1 1
+gra Assasin's_Creed_Syndicate X1 1 1
+gra Assasin's_Creed_Origins X1 1 1
+gra Wiedzmin X1 1 1
+gra F12018 X1 1 1
+gra F12019 X1 1 1
+gra F12020 X1 1 1
+film Titanic katastroficzny 173 2 1
+film Gladiator akcja 171 2 1
+film Wyscig biograficzny 127 2 1
+muzyka hity_roku_2020 Trojka 2 2
+muzyka hity_roku_2019 Trojka 2 2
+muzyka hity_roku_2018 Trojka 2 2
+muzyka hity_roku_2017 Trojka 2 2
+muzyka hity_roku_2016 Trojka 2 2
+muzyka hity_roku_2015 Trojka 2 2
+muzyka hity_roku_2014 Trojka 2 2
+ksiazka Wiedzmin Sapkowski fantasy 3 1
+ksiazka Milczenie_Owiec Harris sensacyjna 3 1
+ksiazka Ogniem_i_Mieczem Sienkiewicz historyczna 3 2
+ksiazka Potop Sienkiewicz historyczna 3 2
+ksiazka Pan_Wolodyjowski Sienkiewicz historyczna 3 2
+ksiazka Slownik_ortograficzny PWN slownik 3 3
+ksiazka Slownik_poprawnej_polszczyzny PWN slownik 3 3
+ksiazka Indeks_atergo PWN slownik 3 3
